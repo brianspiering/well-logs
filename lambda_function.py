@@ -1,3 +1,4 @@
+"""Load files into AWS"""
 from hashlib import md5
 
 import boto3
