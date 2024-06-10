@@ -1,0 +1,3 @@
+SOURCE_BUCKET=bp-de-well-logs-brian
+TABLE_NAME=test
+FUNCTION_NAME=test
