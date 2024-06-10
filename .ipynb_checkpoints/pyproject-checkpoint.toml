@@ -13,17 +13,7 @@ imagehash = "4.3.1"
 [tool.poetry.group.dev.dependencies]
 pytest = "7.4.0"
 flake8 = "6.0.0"
-<<<<<<< HEAD
-pytest-cov = "4.1.0"
-=======
->>>>>>> cccd2e21409063dc876fbb532aa48d826b218187
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-<<<<<<< HEAD
-
-[flake8]
-max-line-length = 88
-=======
->>>>>>> cccd2e21409063dc876fbb532aa48d826b218187

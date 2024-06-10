@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Well Log Project
-
-Process well logs
-=======
 # Well Log File Organizer
 A Python package to ensure that we will only process unique well log files in TIFF format.
 
@@ -11,4 +6,3 @@ A Python package to ensure that we will only process unique well log files in TI
 1. Create an S3 bucket with `bin/bucket.sh create`
 1. Create a DynamoDB table with `bin/database.sh create`
 1. Deploy AWS Lambda function with `bin/lambda.sh create`
->>>>>>> cccd2e21409063dc876fbb532aa48d826b218187
